@@ -11,7 +11,7 @@ last_name: Luangsouvannavong
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥞
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,17 +30,20 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: envelope
+    url: '/#contact'
+  - icon: academicons/archive
+    url: 'https://www.elibrary.ru/defaultx.asp'
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/sayprachanh-lsvnv
+  - icon: academicons/academia
+    url: https://independent.academia.edu/Sayprachanhlsvnv
+  - icon: academicons/arxiv
+    url: https://arxiv.org
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid

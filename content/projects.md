@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: У меня в голове несколько идей для проектов, над которыми я уже некоторое время работаю.
       filters:
         folders:
           - project

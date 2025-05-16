@@ -1,7 +1,7 @@
 ---
 title: Qis
 date: 2025-05-09
-external_link: https://github.com/sayprachanh-lsvnv
+external_link: 
 tags:
   - Custom Bash Shell
 ---

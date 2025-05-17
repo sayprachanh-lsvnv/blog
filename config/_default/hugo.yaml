@@ -12,10 +12,18 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+languages:
+  en:
+    weight: 1
+    title: "My site"
+  ru:
+    weight: 2
+    title: "Мой сайт"
 
 ############################
 ## ADVANCED

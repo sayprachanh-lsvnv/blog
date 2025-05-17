@@ -58,11 +58,11 @@ interests:
 education:
   - area: Общее образование
     institution: Neerada school (Лаос)
-  
-  - area: Разработка мобильных приложений
-    institution: Телекоммуникационный центр Лаоса
-        
-  - area: Программист-самоучка
+    date_start: 2011-09-01
+    date_end: 2023-07-01
+      
+  - area: Студент
+    institution: РУДН 
       
     
 work:

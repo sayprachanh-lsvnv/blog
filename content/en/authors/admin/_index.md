@@ -58,11 +58,11 @@ interests:
 education:
   - area: General education
     institution: Neerada school (Laos)
-  
-  - area: Mobile application developing
-    institution: Telecommunication center Laos
-        
-  - area: Self-taught programmer
+    date_start: '2011-09-01'
+    date_end: '2023-07-01'
+       
+  - area: Student
+    institution: RUDN
       
     
 work:

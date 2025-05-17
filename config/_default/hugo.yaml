@@ -21,12 +21,10 @@ languages:
   en:
     weight: 1
     title: "My site"
-    baseURL: 'https://sayprachanh-lsvnv.github.io/en/'
     
   ru:
     weight: 2
     title: "Мой сайт"
-    baseURL: 'https://sayprachanh-lsvnv.github.io/'
 
 ############################
 ## ADVANCED

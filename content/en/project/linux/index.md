@@ -8,7 +8,7 @@ tags:
 
 ## 🐧 Course about Linux
 
-In this week, I completed the course on basic operating system __Linux__. And I will share my experience about ths e course. 
+In this week, I completed the course on basic operating system __Linux__. And I will share my experience about the course. 
 
 Start, 
 
